@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: "Open Sans";
+}
+
+.center {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #646536;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    color: #9ABD97;
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #B6D7B9;
+}
+
+.friendrequest {
+    padding: 3rem;
+
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    justify-content: left!important;
+}
+
+.mates {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
